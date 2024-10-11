@@ -1,0 +1,35 @@
+Here’s a breakdown of the tasks over the 6 days, designed to ensure you make progress while also learning during the project:
+
+ Day 1: Data Understanding & Setup
+- Task 1: Load and examine the dataset. Understand the features (columns) and their meaning (e.g., booking date, cancellation status, room type, lead time).
+- Task 2: Check the structure (data types, shape) and basic summary statistics using `pandas` (e.g., `df.info()`, `df.describe()`).
+- Learning Focus: Get comfortable with the dataset and understand key terminologies related to hotel booking (seasonality, lead time, etc.).
+
+ Day 2: Data Cleaning
+- Task 1: Handle missing values (e.g., fill, remove, or flag) and clean any inconsistencies.
+- Task 2: Convert data types if needed (e.g., dates into `datetime` format for easy analysis).
+- Task 3: Remove duplicates or outliers if identified.
+- Learning Focus: Strengthen your skills in data cleaning and preprocessing with `pandas`.
+
+ Day 3: Exploratory Analysis – Booking and Cancellation Trends
+- Task 1: Analyze customer booking trends (e.g., bookings per month, per room type, cancellations).
+- Task 2: Visualize booking trends over time to spot seasonality (use line plots, bar charts).
+- Learning Focus: Learn to create effective visualizations with `matplotlib` and `seaborn`.
+
+ Day 4: Exploratory Analysis – Lead Time & Preferences
+- Task 1: Analyze the lead time (number of days between booking and actual stay) to understand how early customers book.
+- Task 2: Analyze customer preferences (e.g., preferred room type, number of nights, or special requests).
+- Learning Focus: Deepen your understanding of how to calculate and visualize trends based on different features.
+
+ Day 5: Final Analysis & Insights
+- Task 1: Compile insights on cancellation patterns and customer preferences.
+- Task 2: Analyze which factors influence cancellations (e.g., lead time, seasonality).
+- Task 3: Draw conclusions and list actionable recommendations for hotel management.
+- Learning Focus: Strengthen analytical thinking and link data insights to business strategies.
+
+ Day 6: Report & Presentation Preparation
+- Task 1: Summarize key findings and visualizations in a clear, concise report.
+- Task 2: Prepare a PowerPoint or PDF presentation for LinkedIn showcasing your work.
+- Learning Focus: Learn how to present data-driven insights in a professional and impactful way.
+
+This schedule gives you time to explore, learn, and complete the project efficiently.
